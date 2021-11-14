@@ -1,5 +1,5 @@
 # Blog with firebase CRUD NuxtJs
-<img src="https://raw.githubusercontent.com/krishnawaghmode/laravel8_REST_API_sanctum/main/Screenshot.png" width="800">
+<img src="https://raw.githubusercontent.com/krishnawaghmode/nuxtjs-blog-firebase/main/assets/posts.png" width="800">
 
 ## Build Setup
 
